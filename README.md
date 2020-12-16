@@ -2,4 +2,4 @@
 Using voting scheme to predict youtub video quality
 
 ==
-![Framework]https://github.com/tanjatang/Educational_Video_recommender/blob/master/Educational_Video_recommender/Framework.PNG
+![Framework](https://github.com/tanjatang/Educational_Video_recommender/blob/master/Educational_Video_recommender/Framework.PNG)
